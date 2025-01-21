@@ -1,13 +1,7 @@
 /*
-Javier Pena: javier.pena-castano@universite-paris-saclay.fr
-Baptiste Pras: baptiste.pras@universite-paris-saclay.fr
-
-Compilé sur Jupyter et XCode pour vérifier la compilo-dépendance
-(On avait eu des problèmes de ce genre avec Jupyter au pré-rendu)
 
 InterUnion ne marche pas parfaitement, voir message ligne 308
 Idem pour CompteDamiers, voir message ligne 392
-Compresse et Dalite pas fait par manque de compréhension
 */
 
 #include <stdio.h>
