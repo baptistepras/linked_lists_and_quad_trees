@@ -1,10 +1,3 @@
-/*
-Javier Pena: javier.pena-castano@universite-paris-saclay.fr
-Baptiste Pras: baptiste.pras@universite-paris-saclay.fr
-
-Compilé sur Jupyter et XCode pour vérifier la compilo-dépendance
-(On avait eu des problèmes de ce genre avec Jupyter au pré-rendu)
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
